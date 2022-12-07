@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Gisa Murera
+- 💞️ A Senior Data Scientist at National Bank of Rwanda
 - 👀 I’m interested in Deep Leaning, Machine Learning DevOps and NLP
 - 🌱 I’m currently a Data Scientist at National Bank of Rwanda
 - 💞️ I’m looking to collaborate on any Data driven researches
